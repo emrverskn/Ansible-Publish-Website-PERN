@@ -1,10 +1,10 @@
 //aws_access_key = ""
 //aws_secret_key = ""
 myami = "ami-026ebd4cfe2c043b2"
-mykey = "mykey"
+mykey = "*****"
 tags = ["postgresql", "nodejs", "react"]
 instancetype = "t2.micro"
-controlinstancetype = "t2.micro"
+controlinstancetype = "t3a.micro"
 num = 3
 region = "us-east-1"
 mysecgr = "ansible-project-207-sec-gr"
