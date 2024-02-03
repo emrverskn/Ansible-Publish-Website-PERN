@@ -8,4 +8,4 @@ controlinstancetype = "t3a.micro"
 num = 3
 region = "us-east-1"
 mysecgr = "ansible-project-sec-gr"
-user = "cl"
+user = "*****"
