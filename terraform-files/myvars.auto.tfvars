@@ -7,5 +7,5 @@ instancetype = "t2.micro"
 controlinstancetype = "t3a.micro"
 num = 3
 region = "us-east-1"
-mysecgr = "ansible-project-207-sec-gr"
-user = "clarusway"
+mysecgr = "ansible-project-sec-gr"
+user = "cl"
