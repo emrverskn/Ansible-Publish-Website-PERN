@@ -1,5 +1,5 @@
 
-//User needs to select appropriate variables form "tfvars" file
+
 
 terraform {
   required_providers {
