@@ -1,5 +1,5 @@
 
-//allowing SSH (22), 5000, 3000 and 5432 connecti
+//allowing SSH (22), 5000, 
 //User needs to select appropriate variables form "tfvars" file when launching the instance.
 
 terraform {
