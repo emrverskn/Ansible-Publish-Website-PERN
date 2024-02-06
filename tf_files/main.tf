@@ -1,5 +1,4 @@
 
-
 //User needs to select appropriate variables form "tfvars" file when launching the instance.
 
 terraform {
