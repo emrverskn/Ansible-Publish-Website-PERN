@@ -20,7 +20,7 @@
           - docker-logrotate
           - docker-engine
         state: removed
-    
+   
     - name: install yum utils
       ansible.builtin.yum:
         name: "yum-utils"
