@@ -5,3 +5,4 @@
 - Postgresql is serving as Database of web-page.
 - Nodejs controls backend part of web-side.
 - React controls frontend side of web-page.
+
